@@ -77,8 +77,15 @@
                 <li class="submenu-item">
                   <a href="pesanan.php" class="submenu-link">Daftar Pesanan</a>
                 </li>
+                
               </ul>
             </li>
+            <li class="sidebar-item">
+                <a href="/frontend_p2/index.php" class="sidebar-link">
+                  <i class="bi bi-grid-1x2-fill"></i>
+                  <span>Home</span>
+                </a>
+              </li>
 
 
 
