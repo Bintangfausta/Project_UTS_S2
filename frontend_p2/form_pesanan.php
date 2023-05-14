@@ -21,7 +21,7 @@ $row = [];
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-               
+            <img src="assets/img/features-3.png" alt="">
             </div>
         </div>
     </div>
